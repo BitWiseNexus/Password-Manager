@@ -42,14 +42,14 @@ Make sure you have the following installed:
 ### Start Backend Server
 Navigate to the backend folder and start the server:
 ```sh
-cd backend
-npm start
+cd passop-mongo/backend
+node ./server.js
 ```
 
 ### Start Frontend Server
 Navigate to the frontend folder and start the development server:
 ```sh
-cd frontend
-npm start
+cd passop
+npm run dev
 ```
 
