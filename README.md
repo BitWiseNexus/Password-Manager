@@ -15,8 +15,8 @@ Follow these steps to install the necessary dependencies for the project.
 ### Prerequisites
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (LTS version recommended)
-- [npm](https://www.npmjs.com/) (comes with Node.js) or [yarn](https://yarnpkg.com/)
-- [MongoDB](https://www.mongodb.com/) (if your backend uses a database)
+- [npm](https://www.npmjs.com/)
+- [MongoDB](https://www.mongodb.com/) 
 
 ### Steps
 1. Clone the repository:
